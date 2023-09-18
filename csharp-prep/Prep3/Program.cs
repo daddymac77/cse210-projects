@@ -9,7 +9,7 @@ class Program
         int magicNumber = int.Parse(userInput);
 
         int guessedNumber = -1;
-        while (magicNumber != guessedNumber);
+        while (magicNumber != guessedNumber)
         {
        Console.Write("What is your guess? ");
         guessedNumber = int.Parse(Console.ReadLine());
