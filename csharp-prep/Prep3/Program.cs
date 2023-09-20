@@ -27,15 +27,10 @@ class Program
         {
             Console.Write("You guessed it!");
         }
-
-        
-            
-        
-        
-            
+         
         }
-        }
-        }
+    }
+}
 
         
 
